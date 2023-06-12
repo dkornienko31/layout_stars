@@ -1,0 +1,2 @@
+.body,.stars{margin:0;padding:0}.stars{height:16px}.stars__star{background-image:url(star.040e0f1e.svg);height:16px;width:16px;background-repeat:no-repeat;background-position:50%;display:inline-block}.stars--1>.stars__star:nth-of-type(-n+1),.stars--2>.stars__star:nth-of-type(-n+2),.stars--3>.stars__star:nth-of-type(-n+3),.stars--4>.stars__star:nth-of-type(-n+4),.stars--5>.stars__star{background-image:url(star-active.3d99ddfd.svg)}
+/*# sourceMappingURL=style.d779c6b6.css.map */
